@@ -1,3 +1,3 @@
 # Laralinks
 
-l Linktree clone project in Laravel. 🔗
+Linktree clone project in Laravel. 🔗
